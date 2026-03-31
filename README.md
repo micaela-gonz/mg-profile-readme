@@ -1,16 +1,16 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Micaela!
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I am majoring in cybersecurity, and am currently taking my unlocking cyber class.
 ## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-4abbd5?logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-008cc1?logo=git&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-0072b5?logo=powershell&logoColor=white)
 ## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
+![Computers](https://img.shields.io/badge/Computers-4f84c4?logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-3272af?logo=protonvpn&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-0f5f9a?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+[![GitHub](https://img.shields.io/badge/GitHub-6198ae?logo=github&logoColor=white)](https://github.com/micaela-gonz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3c7d90?logo=linkedin&logoColor=white)](https://linkedin.com/in/micaela-gonzalez-061274314)
 
-_"Your sample quote here!"_
+_"To live is the rarest thing in the world. Most people exist, that is all."_ - Oscar Wilde
